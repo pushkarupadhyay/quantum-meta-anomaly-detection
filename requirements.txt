@@ -1,0 +1,24 @@
+# Quantum Meta-Reinforcement Learning for Anomaly Detection
+# Project Dependencies
+
+# Core Computation & Data Science
+numpy>=1.22.0
+pandas>=1.4.0
+scikit-learn>=1.0.0
+matplotlib>=3.5.0
+seaborn>=0.11.0
+tabulate>=0.8.9
+
+# Quantum Computing Frameworks
+pennylane>=0.28.0
+qiskit>=0.43.0
+qiskit-machine-learning>=0.6.0
+
+# Agentic Orchestration & LLMs
+langgraph>=0.0.10
+langchain>=0.1.0
+langchain-core>=0.1.0
+langchain-openai>=0.0.2
+
+# Interactive Dashboard & Deployment
+streamlit>=1.12.0
